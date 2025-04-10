@@ -2,14 +2,9 @@
 	"type": "crafting_shapeless",
 	"group": "black_dye",
 	"ingredients": [
-	  [
-		{
-		  "item": "minecraft:coal"
-		},
-		{
-		  "item": "minecraft:charcoal"
-		}
-	  ]
+	  {
+		"tag": "minecraft:coals"
+	  }
 	],
 	"result": {
 	  "item": "minecraft:black_dye",
