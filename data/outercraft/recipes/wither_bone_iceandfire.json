@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+	  {
+		"item": "butcher:witherbone"
+	  }
+	],
+	"result": {
+	  "item": "iceandfire:witherbone",
+	  "count": 1
+	}
+  }
