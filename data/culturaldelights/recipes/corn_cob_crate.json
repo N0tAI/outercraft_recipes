@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "outercraft:corn_ingredients"
+    }
+  },
+  "result": {
+    "item": "culturaldelights:corn_cob_crate"
+  }
+}
