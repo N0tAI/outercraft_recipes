@@ -1,0 +1,21 @@
+{
+   "type": "minecraft:crafting_shapeless",
+   "ingredients": [
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        }
+    ],
+    "result": {
+        "item": "irons_spellbooks:common_ink",
+        "count": 1
+    }
+}

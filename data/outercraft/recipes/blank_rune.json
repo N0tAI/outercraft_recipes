@@ -1,0 +1,20 @@
+{
+   "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {
+            "item": "irons_spellbooks:arcane_essence"
+        },
+        "B": {
+            "item": "irons_spellbooks:arcane_salvage"
+        }
+    },
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "result": {
+        "item": "irons_spellbooks:blank_rune",
+        "count": 1
+    }
+}
