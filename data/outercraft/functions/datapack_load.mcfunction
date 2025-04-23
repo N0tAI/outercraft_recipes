@@ -1,0 +1,1 @@
+scoreboard objectives add outercraft_leave_game minecraft.custom:minecraft.leave_game
